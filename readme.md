@@ -1,4 +1,5 @@
-## Heyoo everyone welcome to thee git
--YOOOO Johhny HERE
+## Welcome to Git
+
+- This is coming from Johhny
 - im adding this from 'feature-branch'
 
