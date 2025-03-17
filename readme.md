@@ -1,5 +1,5 @@
 ## Welcome to Git
 
-- This is coming dev-ivor
+- This is coming from Johhny
 - im adding this from 'feature-branch'
 
